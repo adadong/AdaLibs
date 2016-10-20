@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="arraysDK">
+        <item>\t\t\t\t选择地块</item>
+        <item>\t\t\t\t1</item>
+        <item>\t\t\t\t2</item>
+        <item>\t\t\t\t3</item>
+        <item>\t\t\t\t4</item>
+    </string-array>
+</resources>
